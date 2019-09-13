@@ -1,0 +1,4 @@
+libmumps-dev
+libmumps-ptscotch-dev
+libmumps-scotch-dev
+libmumps-seq-dev
