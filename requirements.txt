@@ -1,3 +1,4 @@
-getfem
 numpy
 mayavi
+ipywidgets
+ipyevents
