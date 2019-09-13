@@ -1,4 +1,5 @@
 numpy
+vtk
 mayavi
 ipywidgets
 ipyevents
