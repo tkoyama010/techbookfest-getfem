@@ -3,3 +3,6 @@ libmumps-dev
 libmumps-ptscotch-dev
 libmumps-scotch-dev
 libmumps-seq-dev
+libopenblas-dev
+libblas-dev
+liblapack-dev
