@@ -1,3 +1,4 @@
+libqhull-dev
 libmumps-dev
 libmumps-ptscotch-dev
 libmumps-scotch-dev
