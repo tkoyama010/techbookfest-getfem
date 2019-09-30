@@ -1,9 +1,1 @@
-libqhull-dev
-libmumps-dev
-libmumps-ptscotch-dev
-libmumps-scotch-dev
-libmumps-seq-dev
-libopenblas-dev
-libblas-dev
-liblapack-dev
-libatlas-base-dev
+mayavi2
