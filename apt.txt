@@ -1,1 +1,4 @@
 python-getfem++
+libblas3
+liblapack3
+libc6
